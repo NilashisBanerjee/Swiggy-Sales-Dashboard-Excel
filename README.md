@@ -1,3 +1,8 @@
+<h2 align="center">Dashboard Preview</h2>
+
+<p align="center">
+  <img src="Swiggy Dashboard.png" width="100%">
+</p>
 # Swiggy-Sales-Dashboard-Excel
 Interactive Swiggy Sales Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, KPI Cards and Slicers.
 # 📊 Swiggy Sales Dashboard (Excel Project)
